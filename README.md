@@ -25,7 +25,7 @@ A sleek and minimal calculator application built with Vite and React, designed t
    git clone https://github.com/your-username/calculator-app.git
 
 2. Navigate to the project directory:
-   cd calculator-app
+   cd calcy
 
 3. Install dependencies:
    npm install
