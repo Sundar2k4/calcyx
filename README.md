@@ -2,7 +2,7 @@
 
 A sleek and minimal calculator application built with Vite and React, designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It features a clean and modern UI, responsive across devices.
 
-🌐 Live Demo: https://sundar2k4.github.io/calcyx/
+🌐 Live Demo: https://calcyxi.netlify.app/
 
 ---
 
